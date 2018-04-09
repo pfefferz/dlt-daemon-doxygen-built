@@ -1,0 +1,11 @@
+digraph "/home/pfefferz/dlt-daemon/src/kpi" {
+  compound=true
+  node [ fontsize="10", fontname="FreeSans"];
+  edge [ labelfontsize="10", labelfontname="FreeSans"];
+  subgraph clusterdir_68267d1309a1af8e8297ef4c3efbcdba {
+    graph [ bgcolor="#ddddee", pencolor="black", label="src" fontname="FreeSans", fontsize="10", URL="dir_68267d1309a1af8e8297ef4c3efbcdba.html"]
+  dir_0d7a208753eca92d6f64c66b09212c89 [shape=box, label="kpi", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_0d7a208753eca92d6f64c66b09212c89.html"];
+  }
+  dir_d44c64559bbebec7f509842c48db8b23 [shape=box label="include" fillcolor="white" style="filled" color="red" URL="dir_d44c64559bbebec7f509842c48db8b23.html"];
+  dir_0d7a208753eca92d6f64c66b09212c89->dir_d44c64559bbebec7f509842c48db8b23 [headlabel="4", labeldistance=1.5 headhref="dir_000015_000001.html"];
+}

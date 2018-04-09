@@ -1,0 +1,19 @@
+digraph "/home/pfefferz/dlt-daemon/src/console" {
+  compound=true
+  node [ fontsize="10", fontname="FreeSans"];
+  edge [ labelfontsize="10", labelfontname="FreeSans"];
+  subgraph clusterdir_68267d1309a1af8e8297ef4c3efbcdba {
+    graph [ bgcolor="#ddddee", pencolor="black", label="src" fontname="FreeSans", fontsize="10", URL="dir_68267d1309a1af8e8297ef4c3efbcdba.html"]
+  subgraph clusterdir_4e4d80e90708fdc910fdeacef1a2f461 {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_4e4d80e90708fdc910fdeacef1a2f461.html"];
+    dir_4e4d80e90708fdc910fdeacef1a2f461 [shape=plaintext label="console"];
+    dir_755d6d6e5815103abc38f542b2abc510 [shape=box label="logstorage" color="black" fillcolor="white" style="filled" URL="dir_755d6d6e5815103abc38f542b2abc510.html"];
+  }
+  }
+  dir_2d094300ae4f2c55dd459b9ec7dd0ad3 [shape=box label="daemon" URL="dir_2d094300ae4f2c55dd459b9ec7dd0ad3.html"];
+  dir_d44c64559bbebec7f509842c48db8b23 [shape=box label="include" fillcolor="white" style="filled" color="red" URL="dir_d44c64559bbebec7f509842c48db8b23.html"];
+  dir_2d094300ae4f2c55dd459b9ec7dd0ad3->dir_d44c64559bbebec7f509842c48db8b23 [headlabel="17", labeldistance=1.5 headhref="dir_000011_000001.html"];
+  dir_4e4d80e90708fdc910fdeacef1a2f461->dir_2d094300ae4f2c55dd459b9ec7dd0ad3 [headlabel="1", labeldistance=1.5 headhref="dir_000005_000011.html"];
+  dir_4e4d80e90708fdc910fdeacef1a2f461->dir_d44c64559bbebec7f509842c48db8b23 [headlabel="16", labeldistance=1.5 headhref="dir_000005_000001.html"];
+  dir_755d6d6e5815103abc38f542b2abc510->dir_d44c64559bbebec7f509842c48db8b23 [headlabel="6", labeldistance=1.5 headhref="dir_000006_000001.html"];
+}

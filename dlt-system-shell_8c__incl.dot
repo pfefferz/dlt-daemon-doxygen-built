@@ -1,0 +1,48 @@
+digraph "/home/pfefferz/dlt-daemon/src/system/dlt-system-shell.c"
+{
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node1 [label="/home/pfefferz/dlt\l-daemon/src/system/dlt\l-system-shell.c",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="dlt.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dlt_8h.html"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node3 [label="dlt_common.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dlt__common_8h.html"];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node4 [label="stdio.h",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node3 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node5 [label="linux/limits.h",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node3 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node6 [label="unistd.h",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node3 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node7 [label="time.h",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node3 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node8 [label="termios.h",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node3 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node9 [label="dlt_types.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dlt__types_8h.html"];
+  Node9 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node10 [label="stdint.h",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node3 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node11 [label="dlt_protocol.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dlt__protocol_8h.html"];
+  Node2 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node12 [label="dlt_user.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dlt__user_8h.html"];
+  Node12 -> Node13 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node13 [label="mqueue.h",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node12 -> Node14 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node14 [label="semaphore.h",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node12 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node12 -> Node15 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node15 [label="dlt_user_macros.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dlt__user__macros_8h.html"];
+  Node15 -> Node16 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node16 [label="dlt_version.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dlt__version_8h.html"];
+  Node12 -> Node17 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node17 [label="dlt_shm.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dlt__shm_8h.html"];
+  Node17 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node1 -> Node18 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node18 [label="dlt-system.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dlt-system_8h.html"];
+  Node18 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node18 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node1 -> Node19 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node19 [label="string.h",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node1 -> Node20 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node20 [label="stdlib.h",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+}

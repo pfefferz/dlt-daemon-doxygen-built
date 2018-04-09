@@ -1,0 +1,35 @@
+var dlt__gateway_8c =
+[
+    [ "DltGatewayConf", "struct_dlt_gateway_conf.html", "struct_dlt_gateway_conf" ],
+    [ "DLT_GATEWAY_NUM_PROPERTIES_MAX", "dlt__gateway_8c.html#a4921e42846e4904af068d2f0341fa316", null ],
+    [ "DltGatewayConfType", "dlt__gateway_8c.html#a0f9b594eee7b6515d1128fc0f834a4b1", [
+      [ "GW_CONF_IP_ADDRESS", "dlt__gateway_8c.html#a0f9b594eee7b6515d1128fc0f834a4b1a72689c6af610d51305abd2bb92142ccb", null ],
+      [ "GW_CONF_PORT", "dlt__gateway_8c.html#a0f9b594eee7b6515d1128fc0f834a4b1a8fc366aec91809764dd65ad929b20a4b", null ],
+      [ "GW_CONF_ECUID", "dlt__gateway_8c.html#a0f9b594eee7b6515d1128fc0f834a4b1a5488b4d4824359d3540fea1310f434a6", null ],
+      [ "GW_CONF_CONNECT", "dlt__gateway_8c.html#a0f9b594eee7b6515d1128fc0f834a4b1a4b9fdd6e90ae897eae22399b0a67aca4", null ],
+      [ "GW_CONF_TIMEOUT", "dlt__gateway_8c.html#a0f9b594eee7b6515d1128fc0f834a4b1a6e2fe947cedadcd0b8bffd312250b6e9", null ],
+      [ "GW_CONF_SEND_CONTROL", "dlt__gateway_8c.html#a0f9b594eee7b6515d1128fc0f834a4b1a831243325f1873e7b698d08d278cd331", null ],
+      [ "GW_CONF_SEND_SERIAL_HEADER", "dlt__gateway_8c.html#a0f9b594eee7b6515d1128fc0f834a4b1ac402bd4762f3eec29840adcf8e3b66f9", null ],
+      [ "GW_CONF_COUNT", "dlt__gateway_8c.html#a0f9b594eee7b6515d1128fc0f834a4b1a2a8cd4bc78a666e107cc9177fe8d8764", null ]
+    ] ],
+    [ "dlt_gateway_check_connect_trigger", "dlt__gateway_8c.html#a55147095a41c11f8bd2bf08db945b44b", null ],
+    [ "dlt_gateway_check_control_messages", "dlt__gateway_8c.html#a2a65aed5783e6b51f05538dc2daddcfd", null ],
+    [ "dlt_gateway_check_ecu", "dlt__gateway_8c.html#a5356834d07d71cb26a548f056ac3864e", null ],
+    [ "dlt_gateway_check_ip", "dlt__gateway_8c.html#a25d863b1a359d02cd64d3ea02e2ed141", null ],
+    [ "dlt_gateway_check_param", "dlt__gateway_8c.html#aa1aa9d4c5a668e665bfd5d7caede78fe", null ],
+    [ "dlt_gateway_check_port", "dlt__gateway_8c.html#aeee9d776f52a824b688775f7eda769d0", null ],
+    [ "dlt_gateway_check_send_serial", "dlt__gateway_8c.html#a6c609f73bbeb9c0ce10941df3e244718", null ],
+    [ "dlt_gateway_check_timeout", "dlt__gateway_8c.html#a0c7cde31e630ef90bc74c2b45f256e8f", null ],
+    [ "dlt_gateway_configure", "dlt__gateway_8c.html#a735caac9d354e99ec7c1d30d1ee4f95d", null ],
+    [ "dlt_gateway_deinit", "dlt__gateway_8c.html#a27a5c1834aca1f03bda945e40e5eb9e0", null ],
+    [ "dlt_gateway_establish_connections", "dlt__gateway_8c.html#a9ae7324ea1e6af5fb07393f2854944ff", null ],
+    [ "dlt_gateway_forward_control_message", "dlt__gateway_8c.html#a9d58666b2539a961e37a032b385a0162", null ],
+    [ "dlt_gateway_get_connection_receiver", "dlt__gateway_8c.html#ae8c8ab8034849895d0df5cf7031c45df", null ],
+    [ "dlt_gateway_init", "dlt__gateway_8c.html#adfc58405381879f331a9347312ed634b", null ],
+    [ "dlt_gateway_process_gateway_timer", "dlt__gateway_8c.html#a188774afcdcfce8cb7f3272db5b6cc62", null ],
+    [ "dlt_gateway_process_on_demand_request", "dlt__gateway_8c.html#a4874acfd8c99d8cc75f1401057f85741", null ],
+    [ "dlt_gateway_process_passive_node_messages", "dlt__gateway_8c.html#acc30ab747b5a49d6d57031d01a6ae164", null ],
+    [ "dlt_gateway_send_control_message", "dlt__gateway_8c.html#a057eb3c87ed27645a9140f532256531a", null ],
+    [ "dlt_gateway_store_connection", "dlt__gateway_8c.html#a16801878fcbf80d7b90201009a4843b3", null ],
+    [ "configuration_entries", "dlt__gateway_8c.html#a9c2cffb7ab3b6cccecae032f273dd966", null ]
+];

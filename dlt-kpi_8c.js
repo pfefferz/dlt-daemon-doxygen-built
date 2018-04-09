@@ -1,0 +1,28 @@
+var dlt_kpi_8c =
+[
+    [ "DLT_DECLARE_CONTEXT", "dlt-kpi_8c.html#a6d1720978fda9076f093fb6147632cda", null ],
+    [ "dlt_kpi_check_loop", "dlt-kpi_8c.html#a79e26f842dd53b953021bfa664b6862f", null ],
+    [ "dlt_kpi_free_process_lists", "dlt-kpi_8c.html#acac7a4aec967f6cd31cfc21663a40b66", null ],
+    [ "dlt_kpi_init_process_lists", "dlt-kpi_8c.html#a8b6a060b8835e12f48953a662d2b5eb1", null ],
+    [ "dlt_kpi_init_sigterm_handler", "dlt-kpi_8c.html#a08f85452dccd8597176bf90f2bb8dafe", null ],
+    [ "dlt_kpi_irq_loop", "dlt-kpi_8c.html#ad4e28b4b589212ac4d780f7f9bf3d6e4", null ],
+    [ "dlt_kpi_log_check_commandlines", "dlt-kpi_8c.html#abc10b5106e8e2e50bca535541229c0cc", null ],
+    [ "dlt_kpi_log_list", "dlt-kpi_8c.html#a3e54fe96c8ec873cf39ce266429f7ee5", null ],
+    [ "dlt_kpi_process_loop", "dlt-kpi_8c.html#a590fcbbf40a8102a7bf645e63a87a48f", null ],
+    [ "dlt_kpi_start_check_thread", "dlt-kpi_8c.html#acd7f1d449fb47dbb9a81d65bd6932edf", null ],
+    [ "dlt_kpi_start_irq_thread", "dlt-kpi_8c.html#a659f2e614686c655646f2adc8f35f623", null ],
+    [ "dlt_kpi_start_process_thread", "dlt-kpi_8c.html#a7a2ff674f45b47c4ea14ce6fa381d9f9", null ],
+    [ "dlt_kpi_stop_loops", "dlt-kpi_8c.html#adb6ab5133565c140378f2324bcc1b9de", null ],
+    [ "dlt_kpi_update_process_list", "dlt-kpi_8c.html#a3b8eca8cee3a286f9f20d35ac037e86b", null ],
+    [ "get_millis", "dlt-kpi_8c.html#aeb45f658fe1f9e96cedb703df240ba28", null ],
+    [ "main", "dlt-kpi_8c.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
+    [ "timespec_to_millis", "dlt-kpi_8c.html#aecb533610ff03b82cc56bc0b3750cd59", null ],
+    [ "_tmp_time", "dlt-kpi_8c.html#ab6414a864932a772bfb793b78d4f6d27", null ],
+    [ "config", "dlt-kpi_8c.html#acadde16b80f28b67ad8b91d96cc65373", null ],
+    [ "list", "dlt-kpi_8c.html#a3c4da65780b3df89ca8b8d7432fcaf34", null ],
+    [ "new_process_list", "dlt-kpi_8c.html#a8ca4ae401193d6f02d583c39b1ee5106", null ],
+    [ "process_list_mutex", "dlt-kpi_8c.html#a9ba9b78349d279b54cc0ddb84f8886da", null ],
+    [ "stop_loop", "dlt-kpi_8c.html#a77d1bf4f156222833ccb4cc10c370cde", null ],
+    [ "stopped_process_list", "dlt-kpi_8c.html#ad8771ef67d8c6f726b64e1b001a9dc83", null ],
+    [ "update_process_list", "dlt-kpi_8c.html#ab40a3ca8a7ee29b2442645aa2ec25a46", null ]
+];

@@ -1,0 +1,15 @@
+digraph "/home/pfefferz/dlt-daemon/src/core_dump_handler" {
+  compound=true
+  node [ fontsize="10", fontname="FreeSans"];
+  edge [ labelfontsize="10", labelfontname="FreeSans"];
+  subgraph clusterdir_68267d1309a1af8e8297ef4c3efbcdba {
+    graph [ bgcolor="#ddddee", pencolor="black", label="src" fontname="FreeSans", fontsize="10", URL="dir_68267d1309a1af8e8297ef4c3efbcdba.html"]
+  subgraph clusterdir_77a128447add527c9e122afd338b83d5 {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_77a128447add527c9e122afd338b83d5.html"];
+    dir_77a128447add527c9e122afd338b83d5 [shape=plaintext label="core_dump_handler"];
+    dir_6a70683d67b66eb526b555641177d6d8 [shape=box label="cityhash_c" color="black" fillcolor="white" style="filled" URL="dir_6a70683d67b66eb526b555641177d6d8.html"];
+    dir_e9d23493786de3230bd839c53a864c14 [shape=box label="i686" color="black" fillcolor="white" style="filled" URL="dir_e9d23493786de3230bd839c53a864c14.html"];
+    dir_8e15835b2a960b8805628a56d2814e7c [shape=box label="x86_64" color="black" fillcolor="white" style="filled" URL="dir_8e15835b2a960b8805628a56d2814e7c.html"];
+  }
+  }
+}

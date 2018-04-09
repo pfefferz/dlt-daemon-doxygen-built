@@ -1,0 +1,22 @@
+digraph "/home/pfefferz/dlt-daemon/src/system/dlt-system.h"
+{
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node1 [label="/home/pfefferz/dlt\l-daemon/src/system/dlt\l-system.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="/home/pfefferz/dlt\l-daemon/src/system/dlt\l-system-filetransfer.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dlt-system-filetransfer_8c.html"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node3 [label="/home/pfefferz/dlt\l-daemon/src/system/dlt\l-system-logfile.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dlt-system-logfile_8c.html"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node4 [label="/home/pfefferz/dlt\l-daemon/src/system/dlt\l-system-options.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dlt-system-options_8c.html"];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node5 [label="/home/pfefferz/dlt\l-daemon/src/system/dlt\l-system-process-handling.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dlt-system-process-handling_8c.html"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node6 [label="/home/pfefferz/dlt\l-daemon/src/system/dlt\l-system-processes.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dlt-system-processes_8c.html"];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node7 [label="/home/pfefferz/dlt\l-daemon/src/system/dlt\l-system-shell.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dlt-system-shell_8c.html"];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node8 [label="/home/pfefferz/dlt\l-daemon/src/system/dlt\l-system-syslog.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dlt-system-syslog_8c.html"];
+  Node1 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node9 [label="/home/pfefferz/dlt\l-daemon/src/system/dlt\l-system.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dlt-system_8c.html"];
+}

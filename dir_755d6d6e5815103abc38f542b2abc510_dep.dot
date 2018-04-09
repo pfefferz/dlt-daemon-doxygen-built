@@ -1,0 +1,11 @@
+digraph "/home/pfefferz/dlt-daemon/src/console/logstorage" {
+  compound=true
+  node [ fontsize="10", fontname="FreeSans"];
+  edge [ labelfontsize="10", labelfontname="FreeSans"];
+  subgraph clusterdir_4e4d80e90708fdc910fdeacef1a2f461 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="console" fontname="FreeSans", fontsize="10", URL="dir_4e4d80e90708fdc910fdeacef1a2f461.html"]
+  dir_755d6d6e5815103abc38f542b2abc510 [shape=box, label="logstorage", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_755d6d6e5815103abc38f542b2abc510.html"];
+  }
+  dir_d44c64559bbebec7f509842c48db8b23 [shape=box label="include" fillcolor="white" style="filled" color="red" URL="dir_d44c64559bbebec7f509842c48db8b23.html"];
+  dir_755d6d6e5815103abc38f542b2abc510->dir_d44c64559bbebec7f509842c48db8b23 [headlabel="6", labeldistance=1.5 headhref="dir_000006_000001.html"];
+}

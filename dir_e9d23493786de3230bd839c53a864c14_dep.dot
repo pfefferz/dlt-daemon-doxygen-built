@@ -1,0 +1,9 @@
+digraph "/home/pfefferz/dlt-daemon/src/core_dump_handler/i686" {
+  compound=true
+  node [ fontsize="10", fontname="FreeSans"];
+  edge [ labelfontsize="10", labelfontname="FreeSans"];
+  subgraph clusterdir_77a128447add527c9e122afd338b83d5 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="core_dump_handler" fontname="FreeSans", fontsize="10", URL="dir_77a128447add527c9e122afd338b83d5.html"]
+  dir_e9d23493786de3230bd839c53a864c14 [shape=box, label="i686", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_e9d23493786de3230bd839c53a864c14.html"];
+  }
+}
